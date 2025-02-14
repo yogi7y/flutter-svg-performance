@@ -1,0 +1,13 @@
+.dart_tool
+.fvm
+.idea
+android
+build
+ios
+linux
+macos
+test
+web
+windows
+.DS_Store
+.fvmrc
